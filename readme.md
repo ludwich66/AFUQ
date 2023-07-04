@@ -1,7 +1,7 @@
 Amateufunk-Quiz (AFUQ)
 
 basierend auf dem Projekt von Jörg (https://github.com/joergschultzelutter/afu-technik-klasse-a) habe ich begonnen ein Python Programm zu schreiben.
-Leider sind meine Programierskills auf niedrigen Level :-) Deshalb suche ich Unterstützung bei der Umsetzung des Programms.
+Leider sind meine Programierskills auf niedrigem Level :-) Deshalb suche ich Unterstützung bei der Umsetzung des Programms.
 
 <img width="300" alt="AFUQ" src="https://github.com/ludwich66/AFUQ/assets/12202733/537ceee6-978a-4529-b50d-1918284fd8bd">
 <img width="300" alt="Hands" src="https://github.com/ludwich66/AFUQ/assets/12202733/0c847588-47f4-46a9-b23e-339606e849f3)">
@@ -12,7 +12,7 @@ Leider sind meine Programierskills auf niedrigen Level :-) Deshalb suche ich Unt
 
 
 Ziele:
-Das Python Programm sollte es ermöglichen unter mehreren Computerplattformen AFU Prüfungsfragen zu Trainieren.
+Das Python Programm sollte es ermöglichen, unter mehreren Computerplattformen, AFU Prüfungsfragen zu Trainieren.
 * Prüfungsfragen der A Lizenz
 * Komplette Bildersammlung
 * Darstellung der AFU Formelsammlung
