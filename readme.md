@@ -21,4 +21,6 @@ Das Python Programm sollte es ermöglichen unter mehreren Computerplattformen AF
 * Auswertung der Antworten /
   Wiedervorlage bei Fehlern,  
   Reduzierung der Fragehäufigkeit bei korrekter Antwort
+
+...
   
