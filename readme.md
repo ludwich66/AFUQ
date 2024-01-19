@@ -1,9 +1,9 @@
 Amateurfunk-Quiz (AFUQ)
 
---> Neue Schulungsunterlagen DARC zur Prüfung ab 06/2024
-[50Ω Schulungstrainer des DARC](https://50ohm.de)
-[50Ω / DL2YMR Schulungsvideo Teil 01](https://www.youtube.com/watch?v=E5RuFuUv7ag)
-[50Ω / DL2YMR Schulungsvideo Teil 03](https://www.youtube.com/watch?v=WnOBk1UogjM&t=946s)
+--> Neue Schulungsunterlagen DARC zur Prüfung ab 06/2024<br>
+[50Ω Schulungstrainer des DARC](https://50ohm.de)<br>
+[50Ω / DL2YMR Schulungsvideo Teil 01](https://www.youtube.com/watch?v=E5RuFuUv7ag)<br>
+[50Ω / DL2YMR Schulungsvideo Teil 03](https://www.youtube.com/watch?v=WnOBk1UogjM&t=946s)<br>
 
 basierend auf dem Projekt von Jörg (https://github.com/joergschultzelutter/afu-technik-klasse-a) habe ich begonnen ein Python Programm zu schreiben.
 Leider sind meine Programierskills auf niedrigem Level :-) deshalb suche ich Unterstützung bei der Umsetzung des Programms.
