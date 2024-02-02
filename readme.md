@@ -1,5 +1,6 @@
 --> Neue Schulungsunterlagen DARC zur Prüfung ab 06/2024<br>
 [50Ω Schulungstrainer des DARC](https://50ohm.de)<br>
+[50Ω iPhone Schulungstrainer des DARC](https://apps.apple.com/de/app/50ohm/id6474642114)
 
 [50Ω / DL2YMR Schulungsvideo Teil 01](https://www.youtube.com/watch?v=WnOBk1UogjM&t=946s)<br>
 [50Ω / DL2YMR Schulungsvideo Teil 02](https://www.youtube.com/watch?v=MPSwrnhAbyY)<br>
