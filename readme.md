@@ -2,6 +2,7 @@
 [50Ω Schulungstrainer des DARC](https://50ohm.de)<br>
 
 [50Ω / DL2YMR Schulungsvideo Teil 01](https://www.youtube.com/watch?v=WnOBk1UogjM&t=946s)<br>
+[50Ω / DL2YMR Schulungsvideo Teil 02](https://www.youtube.com/watch?v=MPSwrnhAbyY)<br>
 [50Ω / DL2YMR Schulungsvideo Teil 03](https://www.youtube.com/watch?v=E5RuFuUv7ag)<br>
 
 Amateurfunk-Quiz (AFUQ)
