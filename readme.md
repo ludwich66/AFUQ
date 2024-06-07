@@ -11,6 +11,10 @@
 [50Ω / DL2YMR Schulungsvideo Teil 07](https://www.youtube.com/watch?v=iVov9T0EO74)<br>
 [50Ω / DL2YMR Schulungsvideo Teil 08](https://www.youtube.com/watch?v=Oe2XpzhSVEQ)<br>
 [50Ω / DL2YMR Schulungsvideo Teil 09](https://www.youtube.com/watch?v=0bn_wZe4a2I)<br>
+[50Ω / DL2YMR Schulungsvideo Teil 10](https://www.youtube.com/watch?v=JdrDCAynRkU)<br>
+[50Ω / DL2YMR Schulungsvideo Teil 11](https://www.youtube.com/watch?v=iVZDwRE4cwg)<br>
+[50Ω / DL2YMR Schulungsvideo Teil 12](https://www.youtube.com/watch?v=H9wytHFZ2Z0)<br>
+  
 
 Amateurfunk-Quiz (AFUQ)
 basierend auf dem Projekt von Jörg (https://github.com/joergschultzelutter/afu-technik-klasse-a) habe ich begonnen ein Python Programm zu schreiben.
